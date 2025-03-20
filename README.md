@@ -11,13 +11,17 @@ Getting and Cleaning Data Project
 4. This repo explains how all of the scripts work and how they are connected.
 
 Codebook
+
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/CodeBook.md
 
 Code
+
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/Getting_and_Cleaning_Data.Rproj
 
 ReadME(this page)
+
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/README.md
 
 Clean data
+
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/tidyData.txt
