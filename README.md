@@ -12,9 +12,12 @@ Getting and Cleaning Data Project
 
 Codebook
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/CodeBook.md
+
 Code
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/Getting_and_Cleaning_Data.Rproj
+
 ReadME(this page)
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/README.md
+
 Clean data
 https://github.com/Belerofonte1/Getting_and_Cleaning_Data/blob/main/tidyData.txt
