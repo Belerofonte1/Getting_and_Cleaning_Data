@@ -1,10 +1,8 @@
 Getting and Cleaning Data Project
 
-Blog Post: Getting and Cleaning Data Review
-
-Data Zip File Location: UC Irvine Repo
 
 Goal of the Project
+
 A tidy data set
 
 A link to a Github repository with your script for performing the analysis
